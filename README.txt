@@ -1,8 +1,4 @@
-Group 1:
-Ayush Gupta- 2020B3A70838P
-Ria Shekhawat - 2020B4A71986P
-
-#Instructions for running the ColabNotebook and code in the folder attached
+Instructions for running the ColabNotebook and code in the folder attached
 
 The code provided in the colab notebook is for zero-shot, few-shot and finetuning. 
 
